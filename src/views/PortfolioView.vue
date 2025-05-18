@@ -6,48 +6,84 @@ export default {
       items: [
         {
           id: 1,
-          name: 'Personal Website',
-          imageUrl: 'portfolio_v2',
-          status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
-          tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/Portofolio-v2',
-          demo: 'https://bagasrakha.netlify.app/'
+          name: 'Starbucks App Redesign',
+          imageUrl: 'portfolio_1',
+          status: 'Designed a new Starbucks app in Figma with a strong focus on UI/UX, aiming to enhance usability and overall user experience.',
+          tech: 'Figma',
+          github: 'null',
+          demo: 'https://www.figma.com/proto/lFJMgmoI3UK4TZwxBxoo1D/DP_Assg2_Jacie-Thoo-Yixuan?node-id=85-412&starting-point-node-id=85%3A412&t=9sYhyUbCRLO7mxsJ-1'
         },
         {
           id: 2,
-          name: 'Sahabat Muslim',
-          imageUrl: 'sahabatmuslim',
-          status: 'A website that has a responsive display to make it easier for Muslims to read the Quran from anywhere.',
-          tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/muslim-companion',
-          demo: 'https://sahabat-muslim.netlify.app/'
+          name: 'FoodPanda App Redesign',
+          imageUrl: 'portfolio_2',
+          status: 'Redesigned the FoodPanda app using Figma, focusing on improving UI/UX and enhancing user experience by introducing new features.',
+          tech: 'Figma',
+          github: 'null',
+          demo: 'https://www.figma.com/proto/ADkRM1c1xTVSl7yPeAUXRH/DUX-ASG1?node-id=0-1&t=RRzTc40coq7kFgtl-1'
         },
         {
           id: 3,
-          name: 'SISTEKDES',
-          imageUrl: 'sistekdes',
-          status: 'Sistem Informasi dan Teknologi Desa, a web application to assist village government work in administration, population data management, community services, etc.',
-          tech: 'Laravel 9, Bootstrap',
+          name: 'Gamified Recycling App',
+          imageUrl: 'portfolio_3',
+          status: 'Created a gamified app prototype to encourage proper recycling through fun, engaging interactions.',
+          tech: 'Figma',
           github: 'null',
-          demo: 'null'
+          demo: 'https://www.figma.com/proto/L7SyzgGSskOaGPQAHk0onk/GC-Assignment-2---Jacie-Thoo?node-id=28-262&t=zowxHAaJcOvAkVIb-1'
         },
         {
           id: 4,
-          name: 'Bumdesma',
-          imageUrl: 'bumdesma',
-          status: 'a web application used by village-owned enterprises at the sub-district level to make it easier for them in terms of accounting that is equipped with a microfinance balance.',
-          tech: 'Laravel 8, Bootstrap',
+          name: '3D for Real Time Environment',
+          imageUrl: 'portfolio_4',
+          status: 'Showcases indoor environment design in Unity, featuring lighting and post-processing. Assets were designed in Autodesk Maya modularly.',
+          tech: 'Unity, Autodesk Maya, Adobe Substance Painter',
           github: 'null',
-          demo: 'null'
+          demo: 'https://youtu.be/xBVt09G65f8'
         },
         {
           id: 5,
-          name: 'SP2SE',
-          imageUrl: 'sp2se',
-          status: 'Sistem Percepatan Pelayanan Surat Elektronik, A web application to manage letters in the village.',
-          tech: 'Codeigniter 3, Bootstrap',
+          name: '3D Outdoor Environment Design',
+          imageUrl: 'portfolio_5',
+          status: 'Created an immersive outdoor environment in Unity, incorporating terrain sculpting, natural lighting, and a dynamic waterfall enhanced with custom particle effects.',
+          tech: 'Unity',
           github: 'null',
-          demo: 'null'
+          demo: 'https://youtu.be/4_SkKmxCrqs'
+        },
+        {
+          id: 6,
+          name: 'Sweet Chaos Game',
+          imageUrl: 'portfolio_6',
+          status: 'Designed and developed a simple game where players match ice cream orders to earn points, featuring a leaderboard system to showcase database integration.',
+          tech: 'Unity, Firebase',
+          github: 'null',
+          demo: 'https://youtu.be/lL9Fn7ZMIH0s'
+        },
+        {
+          id: 7,
+          name: 'Space Cadet VR Simulator',
+          imageUrl: 'portfolio_7',
+          status: 'Collaborated in a team to design and develop a VR application simulating astronaut tasks for job training purposes.',
+          tech: 'Unity, Firebase',
+          github: 'null',
+          demo: 'https://youtu.be/OuYNL_XWBc8'
+        },
+        {
+          id: 8,
+          name: 'Beyond Borders VR Simulator',
+          imageUrl: 'portfolio_8',
+          status: 'Worked in a team to program a VR app for the Youth Expedition Project (YEP), simulating tasks students will experience before participating.',
+          tech: 'Unity, Firebase',
+          github: 'null',
+          demo: 'https://youtu.be/q_DgNF9_FCo'
+        },
+        {
+          id: 9,
+          name: 'Mini Muse AR Application',
+          imageUrl: 'portfolio_9',
+          status: 'Developed an app using Unity’s AR Foundation to help users explore LINE FRIENDS Mininis, enhancing marketing engagement.',
+          tech: 'Unity, Autodesk Maya, Adobe Substance Painter',
+          github: 'null',
+          demo: 'https://youtu.be/ByojJM2zRl0'
         }
       ]
     };
