@@ -84,6 +84,24 @@ export default {
           tech: 'Unity, Autodesk Maya, Adobe Substance Painter',
           github: 'null',
           demo: 'https://youtu.be/ByojJM2zRl0'
+        },
+        {
+          id: 10,
+          name: 'Keeping Up With The Eagles',
+          imageUrl: 'portfolio_10',
+          status: 'Designed a Newsletter featuring club activities and neighbourhood attractions.',
+          tech: 'Canva, Adobe Illustrator',
+          github: 'null',
+          demo: 'https://drive.google.com/drive/folders/1pIVBNHtw2POFiK1JvTirszZNem_KM6v9?usp=sharing'
+        },
+        {
+          id: 11,
+          name: 'Bangkok Travel Promotional Video',
+          imageUrl: 'portfolio_11',
+          status: 'Planned and edited a video animation for a Bangkok travel promotional video.',
+          tech: 'Adobe After Effects, Adobe Illustrator',
+          github: 'null',
+          demo: 'https://youtu.be/4f1UdeFUm2U'
         }
       ]
     };

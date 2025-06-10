@@ -8,7 +8,7 @@ export default {
           id: 1,
           name: 'Illustrator',
           imageUrl: 'https://cdn-icons-png.flaticon.com/512/5968/5968472.png',
-          status: 'Beginner'
+          status: 'Intermediate'
         },
         {
           id: 2,
@@ -51,6 +51,12 @@ export default {
           name: 'Figma',
           imageUrl: 'https://cdn-icons-png.flaticon.com/512/5968/5968705.png',
           status: 'Intermediate'
+        },
+        {
+          id: 9,
+          name: 'Premiere Pro',
+          imageUrl: 'https://cdn-icons-png.flaticon.com/512/5968/5968525.png',
+          status: 'Beginner'
         }
       ],
       devtools: [
